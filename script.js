@@ -3,10 +3,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const flashcardsData = [
         { question: "¿Qué simboliza 'la vaca' en la historia?", answer: "Simboliza todo aquello que te mantiene atado a la mediocridad, como excusas, pensamientos irracionales, falsas creencias o justificaciones." },
         { question: "¿Cuál fue la reacción inicial de la familia ante la muerte de su vaca?", answer: "Su primera reacción fue de desesperación y angustia, ya que había sido su única fuente de sustento por mucho tiempo." },
-        { question: "¿Qué son realmente las excusas ('vacas') más comunes?", answer: "Son formas cómodas de eludir nuestras responsabilidades y justificar la mediocridad buscando culpables externos." },
+        { question: "¿Qué son realmente las \"vacas\" más comunes?", answer: "Son formas cómodas de eludir nuestras responsabilidades y justificar la mediocridad buscando culpables externos." },
         { question: "¿Por qué la mediocridad es peor que el fracaso total?", answer: "Porque el fracaso total te obliga a tomar acción y evaluar otras opciones, mientras que la mediocridad es 'aguantable' y perpetúa el conformismo." },
         { question: "¿Cuál es el primer paso para 'matar' a tus vacas?", answer: "Identificar tu vaca, lo cual requiere observar tus comportamientos para detectar la aparición de cualquier excusa o justificación." },
-        { question: "\"Quisiera leer más, pero no tengo tiempo.\"", answer: "Es una vaca de la categoría: <strong>Vacas que buscan excusar lo inexcusable</strong>." }
+        { question: "\"Quisiera leer más, pero no tengo tiempo.\"", answer: "Es una vaca de la categoría: <strong>Excusa</strong>." }
     ];
 
     const container = document.getElementById('carousel-container');
